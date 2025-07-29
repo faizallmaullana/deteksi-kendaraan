@@ -1,0 +1,9 @@
+opencv-python
+torch
+torchvision
+Pillow
+numpy
+transformers
+sentencepiece
+ultralytics
+streamlit-webrtc
